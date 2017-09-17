@@ -12,7 +12,7 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 This is the code from my first project for the [Udacity Self-Driving Car Engineer Nanodegree](http://www.udacity.com/drive). Based on some starter code provided by Udacity, I detect lane lines in images/videos using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.  
 
-The code currently lives in P1.ipynb. The first two videos work, but I still need to get the third video working. A more detailed explanation of the image processing pipeline is found in writeup_GY.md.
+The code currently lives in P1.ipynb. The first two videos work, but I still need to get the third video working. A more detailed explanation of the image processing pipeline is found in P1 writeup.pdf.
 
 This project is forked from [udacity/CarND-LaneLines-P1](https://github.com/udacity/CarND-LaneLines-P1).
 
